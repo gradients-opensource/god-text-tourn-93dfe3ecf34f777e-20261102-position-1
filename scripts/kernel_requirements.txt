@@ -1,0 +1,4 @@
+causal-conv1d @ https://github.com/Dao-AILab/causal-conv1d/releases/download/v1.6.2.post1/causal_conv1d-1.6.2.post1+cu12torch2.8cxx11abiTRUE-cp311-cp311-linux_x86_64.whl \
+    --hash=sha256:ca0bca912bf9ad3761f3a900815d0940c1d457c1df27a1c024b5ae43a0cfd68b
+mamba-ssm @ https://github.com/state-spaces/mamba/releases/download/v2.2.5/mamba_ssm-2.2.5+cu12torch2.8cxx11abiTRUE-cp311-cp311-linux_x86_64.whl \
+    --hash=sha256:2be2b2ae8b1ff93681b49e58dff9f46fe7c28b1e767df8aa97494653fe76ca5a
